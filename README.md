@@ -4,6 +4,7 @@ Exercícios Testes Automatizados
 Nesta atividade vamos trabalhar com vários cenários.
 
 
+
 Criar o caso de teste 1:
 
 1 - Acessar o site: https://blazedemo.com/
@@ -16,6 +17,7 @@ Criar o caso de teste 1:
 
 4 - Validar se no cabeçalho da tabela tem as informações: "Departs: San Diego" e "Arrives: New York"
 
+ 
  
 Criar o caso de teste 2:
 
@@ -35,6 +37,7 @@ Criar o caso de teste 2:
 
 6 - Validar mensagem de sucesso
 
+ 
  
 Criar o caso de teste 3:
 
