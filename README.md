@@ -39,20 +39,3 @@ Criar o caso de teste 2:
 
  
  
-Criar o caso de teste 3:
-
-1 - Acessar o site: https://blazedemo.com/
-
-2 - Em select “Choose your departure city:” selecionar qualquer valor passado por parâmetro
-
-3 - Em select “Choose your destination city:” selecionar qualquer valor passado por parâmetro
-
-3 - Clicar em “Find Flights”.
-
-4 - Escolher a viagem baseada no “Flight#”, ou seja clicar no botão “Choose This Flight” do “Flight#” passado por parâmetro
-
-5 - Preencher todos os campos do formulário (passar as informações por parâmetro)
-
-5 - Enviar (Purchase Flight) o formulário
-
-6 - Validar mensagem de sucesso
