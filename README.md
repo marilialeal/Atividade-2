@@ -1,9 +1,8 @@
 # Atividade-2
-Exercícios Testes Automatizados
+
+Testes Automatizados
 
 Nesta atividade vamos trabalhar com vários cenários.
-
-
 
 Criar o caso de teste 1:
 
